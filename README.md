@@ -1,0 +1,4 @@
+ThumbSlide
+==========
+
+Minimal Wordpress Theme
