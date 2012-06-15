@@ -10,10 +10,10 @@ ThumbSlide is a minimal theme for Wordpress.
 2) Thumbnail Only Post Representation
 3) Lightbox Inclusion
 4) Customizeable:
-    I. Menus
-    II. Banner with Max-Width
-    III. 404 Page
-    IV. Background Image/Color
+  I. Menus
+  II. Banner with Max-Width
+  III. 404 Page
+  IV. Background Image/Color
 
 
 === How To Use ThumbSlide ===
@@ -27,10 +27,10 @@ With ThumbSlide any Wordpress post is easily automatically arranged on the home 
 3) Lightbox Inclusion
 
 4) Customizeable:
-    I. Menus
+  I. Menus
   
-    II. Banner with Max-Width
+  II. Banner with Max-Width
   
-    III. 404 Page
+  III. 404 Page
   
-    IV. Background Image/Color
+  IV. Background Image/Color
